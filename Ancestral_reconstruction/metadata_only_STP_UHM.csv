@@ -1,0 +1,74 @@
+Code,Genus,Host,ecoregion_III,ecoregion_IV
+'STP1710.7_Salamander_Plethodon_serratus_cluster5',Plethodon,Salamander,Interior Plateau,Western Highland Rim
+'STP1711.2_Salamander_Desmognathus_ocoee_cluster_9',Desmognathus,Salamander,Interior Plateau,Western Highland Rim
+'STP1711.3_Salamander_Desmognathus_ocoee_cluster21',Desmognathus,Salamander,Interior Plateau,Western Highland Rim
+'STP1715.1_Salamander_Eurycea_cirrigera_cluster19',Eurycea,Salamander,Interior Plateau,Outer Nashville Basin
+'STP1716.1_Salamander_Plethodon_serratus_cluster19',Plethodon,Salamander,Interior Plateau,Outer Nashville Basin
+'STP1717.1_Salamander_Eurycea_longicauda_cluster16',Eurycea,Salamander,Interior Plateau,Western Highland Rim
+'STP1718.1_Salamander_Plethodon_serratus_cluster16',Plethodon,Salamander,Interior Plateau,Outer Nashville Basin
+'STP1720.1_Salamander_Plethodon_serratus_cluster19',Plethodon,Salamander,Interior Plateau,Outer Nashville Basin
+'STP1721.2_Salamander_Plethodon_serratus_cluster19',Plethodon,Salamander,Interior Plateau,Outer Nashville Basin
+'STP1722.2_Salamander_Plethodon_serratus_cluster19',Plethodon,Salamander,Interior Plateau,Outer Nashville Basin
+'UHM1.10153_Salamander_Aneides_aeneus_cluster20',Aneides,Salamander,Ridge and Valley,Southern Limestone Dolomite Valleys and Low Rolling Hills
+'UHM14.10160_Frog_Lithobates_sylvaticus_cluster13',Lithobates,Frog,Southwestern Appalachians,Cumberland Plateau
+'UHM148.10186_Salamander_Desmognathus_fuscus_cluster7',Desmognathus,Salamander,Interior Plateau,Western Highland Rim
+'UHM151.10187_Salamander_Desmognathus_fuscus_cluster18',Desmognathus,Salamander,Interior Plateau,Western Highland Rim
+'UHM160.10194_Salamander_Desmognathus_fuscus_cluster20',Desmognathus,Salamander,Interior Plateau,Western Highland Rim
+'UHM162.10195_Salamander_Desmognathus_fuscus_singleton',Desmognathus,Salamander,Interior Plateau,Western Highland Rim
+'UHM17.10163_Frog_Lithobates_sylvaticus_cluster21',Lithobates,Frog,Southwestern Appalachians,Cumberland Plateau
+'UHM170.10205_Salamander_Desmognathus_fuscus_cluster20',Desmognathus,Salamander,Interior Plateau,Western Highland Rim
+'UHM182.10209_Salamander_Desmognathus_fuscus_cluster20',Desmognathus,Salamander,Interior Plateau,Western Highland Rim
+'UHM182.10210_Salamander_Desmognathus_fuscus_cluster11',Desmognathus,Salamander,Interior Plateau,Western Highland Rim
+'UHM182.10212_Salamander_Desmognathus_fuscus_singleton',Desmognathus,Salamander,Interior Plateau,Western Highland Rim
+'UHM187.10219_Frog_Acris_crepitans_cluster21',Acris,Frog,Interior Plateau,Eastern Highland Rim
+'UHM203.10228_Salamander_Plethodon_dorsalis_cluster21',Plethodon,Salamander,Southwestern Appalachians,Cumberland Plateau
+'UHM207.10231_Lizard_Plestiodon_fasciatus_cluster21',Plestiodon,Lizard,Southwestern Appalachians,Cumberland Plateau
+'UHM228.10233_Frog_Lithobates_clamitans_cluster21',Lithobates,Frog,Southwestern Appalachians,Cumberland Plateau
+'UHM229.10235_Frog_Acris_crepitans_cluster14',Acris,Frog,Southwestern Appalachians,Cumberland Plateau
+'UHM229.10237_Frog_Acris_crepitans_singleton',Acris,Frog,Southwestern Appalachians,Cumberland Plateau
+'UHM241.10241_Salamander_Eurycea_longicauda_cluster15',Eurycea,Salamander,Southwestern Appalachians,Cumberland Plateau
+'UHM241.10242_Salamander_Eurycea_longicauda_cluster_9',Eurycea,Salamander,Southwestern Appalachians,Cumberland Plateau
+'UHM242.10243_Salamander_Eurycea_longicauda_singleton',Eurycea,Salamander,Southwestern Appalachians,Cumberland Plateau
+'UHM245.10245_Frog_Anaxyrus_americanus_cluster21',Anaxyrus,Frog,Southwestern Appalachians,Cumberland Plateau
+'UHM246.10248_Salamander_Eurycea_longicauda_singleton',Eurycea,Salamander,Southwestern Appalachians,Cumberland Plateau
+'UHM246.10249_Salamander_Eurycea_longicauda_cluster8',Eurycea,Salamander,Southwestern Appalachians,Cumberland Plateau
+'UHM249.10252_Salamander_Desmognathus_sp_cluster21',Desmognathus,Salamander,Southwestern Appalachians,Cumberland Plateau
+'UHM269.10257_Salamander_Desmognathus_fuscus_cluster20',Desmognathus,Salamander,Southwestern Appalachians,Cumberland Plateau
+'UHM272.10260_Salamander_Desmognathus_fuscus_cluster20',Desmognathus,Salamander,Southwestern Appalachians,Cumberland Plateau
+'UHM274.10266_Salamander_Desmognathus_fuscus_singleton',Desmognathus,Salamander,Southwestern Appalachians,Cumberland Plateau
+'UHM28.10171_Frog_Lithobates_sylvaticus_cluster16',Lithobates,Frog,Southwestern Appalachians,Cumberland Plateau
+'UHM280.10268_Salamander_Eurycea_cirrigera_cluster21',Eurycea,Salamander,Southwestern Appalachians,Cumberland Plateau
+'UHM289.10274_Salamander_Desmognathus_fuscus_cluster20',Desmognathus,Salamander,Southwestern Appalachians,Cumberland Plateau
+'UHM291.10277_Salamander_Desmognathus_fuscus_cluster19',Desmognathus,Salamander,Southwestern Appalachians,Cumberland Plateau
+'UHM295.10282_Salamander_Desmognathus_fuscus_cluster20',Desmognathus,Salamander,Southwestern Appalachians,Cumberland Plateau
+'UHM295.10283_Salamander_Desmognathus_fuscus_singleton',Desmognathus,Salamander,Southwestern Appalachians,Cumberland Plateau
+'UHM298.10285_Salamander_Desmognathus_fuscus_cluster18',Desmognathus,Salamander,Southwestern Appalachians,Cumberland Plateau
+'UHM3.10154_Salamander_Desmognathus_quadramaculatus_cluster20',Desmognathus,Salamander,Ridge and Valley,Southern Limestone Dolomite Valleys and Low Rolling Hills
+'UHM312.10291_Salamander_Eurycea_longicauda_cluster7',Eurycea,Salamander,Southwestern Appalachians,Cumberland Plateau
+'UHM338.10299_Salamander_Desmognathus_fuscus_singleton',Desmognathus,Salamander,Blue Ridge,Southern Metasedimentary Mountains
+'UHM342.10302_Salamander_Desmognathus_fuscus_cluster20',Desmognathus,Salamander,Blue Ridge,Southern Metasedimentary Mountains
+'UHM373.10311_Salamander_Plethodon_jordani_cluster19',Plethodon,Salamander,Blue Ridge,High Mountains
+'UHM382.10313_Salamander_Plethodon_jordani_cluster3',Plethodon,Salamander,Blue Ridge,High Mountains
+'UHM388.10315_Salamander_Plethodon_jordani_cluster17',Plethodon,Salamander,Blue Ridge,High Mountains
+'UHM390.10318_Salamander_Plethodon_jordani_cluster13',Plethodon,Salamander,Blue Ridge,High Mountains
+'UHM414.10320_Salamander_Desmognathus_ochrophaeus_cluster17',Desmognathus,Salamander,Blue Ridge,High Mountains
+'UHM414.10322_Salamander_Desmognathus_ochrophaeus_cluster13',Desmognathus,Salamander,Blue Ridge,High Mountains
+'UHM415.10324_Salamander_Plethodon_jordani_cluster19',Plethodon,Salamander,Blue Ridge,High Mountains
+'UHM415.10325_Salamander_Plethodon_jordani_cluster11',Plethodon,Salamander,Blue Ridge,High Mountains
+'UHM425.10329_Salamander_Desmognathus_imitator_singleton',Desmognathus,Salamander,Blue Ridge,High Mountains
+'UHM428.10332_Salamander_Hemidactylium_scutatum_cluster19',Hemidactylium,Salamander,Blue Ridge,High Mountains
+'UHM453.10334_Salamander_Desmognathus_fuscus_cluster17',Desmognathus,Salamander,Blue Ridge,High Mountains
+'UHM462.10338_Salamander_Plethodon_jordani_singleton',Plethodon,Salamander,Blue Ridge,High Mountains
+'UHM462.10339_Salamander_Plethodon_jordani_cluster17',Plethodon,Salamander,Blue Ridge,High Mountains
+'UHM47.10176_Frog_Lithobates_sylvaticus_cluster16',Lithobates,Frog,Southwestern Appalachians,Cumberland Plateau
+'UHM48.10177_Frog_Lithobates_sylvaticus_cluster21',Lithobates,Frog,Southwestern Appalachians,Cumberland Plateau
+'UHM490.10360_Frog_Lithobates_sylvaticus_cluster21',Lithobates,Frog,Northeastern Highlands,White Mountains Blue Mountains
+'UHM500.10383_Frog_Lithobates_sylvaticus_cluster21',Lithobates,Frog,Northeastern Highlands,Sebago-Ossipee Hills and Plains
+'UHM500.10386_Frog_Lithobates_sylvaticus_cluster_9',Lithobates,Frog,Northeastern Highlands,Sebago-Ossipee Hills and Plains
+'UHM512.10412_Frog_Lithobates_sylvaticus_cluster15',Lithobates,Frog,Ridge and Valley,Southern Sandstone Ridges
+'UHM514.10415_Frog_Lithobates_clamitans_cluster15',Lithobates,Frog,Interior Plateau,Eastern Highland Rim
+'UHM516.10416_Frog_Lithobates_clamitans_cluster12',Lithobates,Frog,Interior Plateau,Eastern Highland Rim
+'UHM516.10422_Frog_Lithobates_clamitans_cluster14',Lithobates,Frog,Interior Plateau,Eastern Highland Rim
+'UHM518.10425_Frog_Lithobates_clamitans_cluster20',Lithobates,Frog,Interior Plateau,Western Highland Rim
+'UHM520.10428_Frog_Lithobates_sylvaticus_cluster5',Lithobates,Frog,Interior Plateau,Western Highland Rim
+'UHM69.10185_Frog_Lithobates_sylvaticus_cluster21',Lithobates,Frog,Southwestern Appalachians,Cumberland Plateau
